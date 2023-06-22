@@ -13,3 +13,5 @@ Modifica la URL de búsqueda si deseas buscar términos diferentes. Puedes cambi
 Ejecuta la clase AmazonScraper para iniciar el proceso de scraping.
 Una vez completado, los datos se guardarán en un archivo llamado productos_amazon.csv en el directorio raíz del proyecto. (Se recomienda abrirlo con el editor de texto)
 El archivo CSV generado contendrá dos columnas: "Título" y "Precio (€)". Cada línea representa un producto de Amazon encontrado en la página de resultados de búsqueda.
+## Licencia
+Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para obtener más información.
